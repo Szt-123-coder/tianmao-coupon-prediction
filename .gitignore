@@ -1,0 +1,12 @@
+# 数据和参考资料（版权原因不上传）
+data/
+参考/
+
+# 本地环境和临时文件
+env/
+_to_delete/
+.ipynb_checkpoints/
+__pycache__/
+
+# 个人项目说明（写了求职计划，不公开）
+项目说明.md
